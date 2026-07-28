@@ -33,6 +33,9 @@ Power BI Desktop, Power BI Service, Power Query (M), DAX, Excel, OneDrive
 
 Screenshots
 
-See docs/screenshots/ for full-page views of all 4 report pages.
+![Overview](docs/Overview.jpg)
+![Risk Segmentation](docs/Risk%20Segmentation.jpg)
+![Loan Purpose Detail](docs/Loan%20Purpose%20Details.jpg)
+![Default Analysis](docs/Default%20Analysis.jpg)
 
 This is a self-directed learning project built to practice and demonstrate Business Analyst / BI skills — not affiliated with any employer or client data.
